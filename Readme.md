@@ -41,7 +41,7 @@ Aplikasi ini merupakan sistem pendukung keputusan (SPK) menggunakan metode **SMA
 
 1. **Flutter SDK**: [https://flutter.dev/docs/get-started/install/windows](https://flutter.dev/docs/get-started/install/windows)
 2. **Android Studio** (beserta SDK & AVD)
-3. **VS Code** (opsional, tapi direkomendasikan)
+3. **VS Code** (sebagai code editor)
 4. **Git (opsional)**: [https://git-scm.com](https://git-scm.com)
 
 ### 2. Atur Environment Variable
