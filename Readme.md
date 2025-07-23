@@ -18,19 +18,20 @@ Aplikasi ini merupakan sistem pendukung keputusan (SPK) menggunakan metode **SMA
 ## 📸 Screenshot Aplikasi
 
 ### 🚀 Splash Screen
-![Splash](SMART_SPK_MOBILE/assets/images/splash.png)
+<img src="SMART_SPK_MOBILE/assets/images/splash.png" width="400"/>
 
 ### 📋 Halaman Kriteria
-![Kriteria](SMART_SPK_MOBILE/assets/images/kriteria.png)
+<img src="SMART_SPK_MOBILE/assets/images/kriteria.png" width="400"/>
 
 ### 📊 Halaman Alternatif
-![Alternatif](SMART_SPK_MOBILE/assets/images/Alternatif.png)
+<img src="SMART_SPK_MOBILE/assets/images/Alternatif.png" width="400"/>
 
 ### 📝 Halaman Input Nilai
-![Input Nilai](SMART_SPK_MOBILE/assets/images/Nilai.png)
+<img src="SMART_SPK_MOBILE/assets/images/Nilai.png" width="400"/>
 
 ### 📈 Halaman Hasil Analisis
-![Analisis](SMART_SPK_MOBILE/assets/images/hasil_analisis.png)
+<img src="SMART_SPK_MOBILE/assets/images/hasil_analisis.png" width="400"/>
+
 
 ---
 
